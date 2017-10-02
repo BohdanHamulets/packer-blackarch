@@ -14,6 +14,6 @@ cd packer-blackarch
 ```
 
 Resources used to create this
------------------------------
+------------------------------
 - https://github.com/elasticdog/packer-arch
 - https://github.com/BlackArch/blackarch-installer
